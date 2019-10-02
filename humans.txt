@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Daniele Arci daniele.arci@eidosmedia.com
 
 # THANKS
 
