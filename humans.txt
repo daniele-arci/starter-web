@@ -4,6 +4,7 @@
 # TEAM
 
     Daniele Arci daniele.arci@eidosmedia.com
+	STASH on a branch
 
 # THANKS
 
